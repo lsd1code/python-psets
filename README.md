@@ -4,7 +4,7 @@ a repo of psets I completed from CS50 Python Course
 
 every python file has a docstring at the bottom of the file that describes the exercise and what needs to be done
 
-## Week 0: Pset 0
+## Week 0: Pset 0 (functions and variables)
 
 - eistien.py
 - faces.py
@@ -12,7 +12,7 @@ every python file has a docstring at the bottom of the file that describes the e
 - playback.py
 - tip_calculator.py
 
-## Week 1: Pset 1
+## Week 1: Pset 1 (conditionals)
 
 - bank.py
 - deep.py
@@ -20,7 +20,7 @@ every python file has a docstring at the bottom of the file that describes the e
 - interpreter.py
 - meal.py
 
-## Week 2: Pset 2
+## Week 2: Pset 2 (loops, list, dict)
 
 - camelcase.py
 - coke.py
