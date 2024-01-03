@@ -1,8 +1,8 @@
 # CS50 Programming with Python: Psets
 
-a repo of psets I completed from CS50 Python Course
+A repo of psets I completed from CS50 Python Course
 
-every python file has a docstring at the bottom of the file that describes the exercise and what needs to be done
+Every python file has a docstring at the bottom of the file that describes the exercise and what needs to be done
 
 ## Week 0: Pset 0 (functions and variables)
 
@@ -27,3 +27,18 @@ every python file has a docstring at the bottom of the file that describes the e
 - nutrition.py
 - twttr.py
 - vanity.py (most challenging)
+
+## Week 3: Pset 3 (exception handling)
+
+- fuel.py
+- grocery.py
+- outdated.py
+- tequaria.py
+
+## Week 4: Pset 4 (unit tests)
+
+-
+
+## Week 5: Pset 5 (file I/O)
+
+-
