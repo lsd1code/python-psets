@@ -35,10 +35,8 @@ Every python file has a docstring at the bottom of the file that describes the e
 - outdated.py
 - tequaria.py
 
-## Week 4: Pset 4 (unit tests)
+## Week 6: Pset 6 (file I/O)
 
--
-
-## Week 5: Pset 5 (file I/O)
-
--
+- hello.py
+- lines.py
+- pizza.py
